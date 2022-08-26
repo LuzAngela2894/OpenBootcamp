@@ -15,7 +15,8 @@ public class SegundaParte {
 		// TODO Auto-generated method stub
 		Coche miCoche = new Coche();
 		miCoche.IncrementarPuertas();
-		System.out.println(miCoche.puertas);
+		miCoche.IncrementarPuertas();
+		System.out.println("El numero de puertas es: " + miCoche.puertas);
 	}
 
 }
