@@ -1,0 +1,19 @@
+package ejerciciostema3;
+
+public class SegundaParte {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	class Coche{
+		public int puertas = 0;
+		
+		public void IncrementarPuertas() {
+			
+		}
+		
+	}
+
+}
